@@ -1,0 +1,9 @@
+F:\ITStep\2 курс\WF\CW\1) Intro\bin\Debug\1) Intro.exe.config
+F:\ITStep\2 курс\WF\CW\1) Intro\bin\Debug\1) Intro.exe
+F:\ITStep\2 курс\WF\CW\1) Intro\bin\Debug\1) Intro.pdb
+F:\ITStep\2 курс\WF\CW\1) Intro\obj\Debug\_1__Intro.Properties.Resources.resources
+F:\ITStep\2 курс\WF\CW\1) Intro\obj\Debug\1) Intro.csproj.GenerateResource.cache
+F:\ITStep\2 курс\WF\CW\1) Intro\obj\Debug\1) Intro.exe
+F:\ITStep\2 курс\WF\CW\1) Intro\obj\Debug\1) Intro.pdb
+F:\ITStep\2 курс\WF\CW\1) Intro\obj\Debug\_1__Intro.Form1.resources
+F:\ITStep\2 курс\WF\CW\1) Intro\obj\Debug\1) Intro.csprojAssemblyReference.cache

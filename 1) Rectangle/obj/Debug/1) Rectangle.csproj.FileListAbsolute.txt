@@ -1,0 +1,9 @@
+F:\ITStep\2 курс\WF\CW\1) Rectangle\bin\Debug\1) Rectangle.exe.config
+F:\ITStep\2 курс\WF\CW\1) Rectangle\bin\Debug\1) Rectangle.exe
+F:\ITStep\2 курс\WF\CW\1) Rectangle\bin\Debug\1) Rectangle.pdb
+F:\ITStep\2 курс\WF\CW\1) Rectangle\obj\Debug\1) Rectangle.csprojAssemblyReference.cache
+F:\ITStep\2 курс\WF\CW\1) Rectangle\obj\Debug\_1__Rectangle.Form1.resources
+F:\ITStep\2 курс\WF\CW\1) Rectangle\obj\Debug\_1__Rectangle.Properties.Resources.resources
+F:\ITStep\2 курс\WF\CW\1) Rectangle\obj\Debug\1) Rectangle.csproj.GenerateResource.cache
+F:\ITStep\2 курс\WF\CW\1) Rectangle\obj\Debug\1) Rectangle.exe
+F:\ITStep\2 курс\WF\CW\1) Rectangle\obj\Debug\1) Rectangle.pdb
