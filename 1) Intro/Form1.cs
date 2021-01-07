@@ -21,16 +21,7 @@ namespace _1__Intro
         }
 
         private void button1_MouseClick(object sender, MouseEventArgs e)
-        {                       
-
-            //foreach (TextBox tb in this.Controls.OfType<TextBox>())
-            //{
-            //    if (string.IsNullOrEmpty(tb.Text))
-            //    {
-            //        MessageBox.Show("Please fill in all empty fields!", "Error!", MessageBoxButtons.OK ,MessageBoxIcon.Exclamation);                 
-            //        return;                    
-            //    }
-            //}
+        {        
             
                 int minNumber = 1;
                 int maxNumber = 100;

@@ -12,8 +12,7 @@ namespace _1__Rectangle
 {
     public partial class Form1 : Form
     {
-        readonly int distance = 10;
-        bool isCTRLPressed = false;
+        readonly int distance = 10;        
 
         public Form1()
         {
@@ -26,14 +25,16 @@ namespace _1__Rectangle
         }
 
         private void Form1_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (isCTRLPressed == true && e.Button == MouseButtons.Left)
-                this.Close();
-
-
+        {   
             if (e.Button == MouseButtons.Left)
             {
                 label1.Visible = false;
+
+                if (Control.ModifierKeys == Keys.Control)
+                {
+                    this.Close();
+                }
+
 
                 if (e.X >= 0 && e.X < distance || e.X > this.ClientSize.Width - distance && e.X <= this.ClientSize.Width
                     || e.Y >= 0 && e.Y < distance || e.Y > this.ClientSize.Height - distance && e.Y <= this.ClientSize.Height)
@@ -58,10 +59,6 @@ namespace _1__Rectangle
                     $"Client size height: {this.ClientSize.Height}";
             }           
         }
-
-        private void Form1_KeyDown(object sender, KeyEventArgs e)
-        {
-            isCTRLPressed = true;            
-        }
+       
     }
 }
